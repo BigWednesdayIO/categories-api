@@ -1,0 +1,230 @@
+{
+  "412": {
+    "name": "Food, Beverages & Tobacco",
+    "hierachy": "412"
+  },
+  "413": {
+    "name": "Beverages",
+    "hierachy": "412.413"
+  },
+  "499676": {
+    "name": "Alcoholic Beverages",
+    "hierachy": "412.413.499676"
+  },
+  "414": {
+    "name": "Beer",
+    "hierachy": "412.413.499676.414"
+  },
+  "417": {
+    "name": "Liquor & Spirits",
+    "hierachy": "412.413.499676.417"
+  },
+  "421": {
+    "name": "Wine",
+    "hierachy": "412.413.499676.421"
+  },
+  "1671": {
+    "name": "Gin",
+    "hierachy": "412.413.499676.417.2364"
+  },
+  "1926": {
+    "name": "Whisky",
+    "hierachy": "412.413.499676.417.1926"
+  },
+  "2107": {
+    "name": "Vodka",
+    "hierachy": "412.413.499676.417.2107"
+  },
+  "2364": {
+    "name": "Brandy",
+    "hierachy": "412.413.499676.417.2364"
+  },
+  "2605": {
+    "name": "Rum",
+    "hierachy": "412.413.499676.417.2605"
+  },
+  "2933": {
+    "name": "Liqueurs",
+    "hierachy": "412.413.499676.417.2933"
+  },
+  "420": {
+    "name": "Water",
+    "hierachy": "412.413.420"
+  },
+  "2628": {
+    "name": "Fizzy Drinks",
+    "hierachy": "412.413.2628"
+  },
+  "8036": {
+    "name": "Fruit-Flavoured Drinks",
+    "hierachy": "412.413.8036"
+  },
+  "2887": {
+    "name": "Juice",
+    "hierachy": "412.413.2887"
+  },
+  "5723": {
+    "name": "Sports & Energy Drinks",
+    "hierachy": "412.413.499676.5723"
+  },
+  "5725": {
+    "name": "Cocktail Mixes",
+    "hierachy": "412.413.499676.5725"
+  },
+  "5887": {
+    "name": "Flavoured Alcoholic Beverages",
+    "hierachy": "412.413.499676.5887"
+  },
+  "6761": {
+    "name": "Cider",
+    "hierachy": "412.413.499676.6761"
+  },
+  "536": {
+    "name": "Home & Garden",
+    "hierachy": "536"
+  },
+  "630": {
+    "name": "Household Supplies",
+    "hierachy": "536.630"
+  },
+  "623": {
+    "name": "Household Cleaning Supplies",
+    "hierachy": "536.630.623"
+  },
+  "4973": {
+    "name": "Household Cleaning Products",
+    "hierachy": "536.630.623.4973"
+  },
+  "7330": {
+    "name": "All-Purpose Cleaners",
+    "hierachy": "536.630.623.4973.7330"
+  },
+  "2530": {
+    "name": "Household Paper Products",
+    "hierachy": "536.630.2530"
+  },
+  "624": {
+    "name": "Facial Tissues",
+    "hierachy": "536.630.2530.624"
+  },
+  "629": {
+    "name": "Toilet Paper",
+    "hierachy": "536.630.2530.629"
+  },
+  "638": {
+    "name": "Kitchen & Dining",
+    "hierachy": "536.638"
+  },
+  "730": {
+    "name": "Kitchen Appliances",
+    "hierachy": "536.638.730"
+  },
+  "4161": {
+    "name": "Ice Makers",
+    "hierachy": "536.638.730.4161"
+  },
+  "4539": {
+    "name": "Wine Fridges",
+    "hierachy": "536.638.730.4539"
+  },
+  "632": {
+    "name": "Hardware",
+    "hierachy": "632"
+  },
+  "502975": {
+    "name": "Fuel Containers & Tanks",
+    "hierachy": "632.502975"
+  },
+  "111": {
+    "name": "Business & Industrial",
+    "hierachy": "111"
+  },
+  "5863": {
+    "name": "Advertising & Marketing",
+    "hierachy": "111.5863"
+  },
+  "141": {
+    "name": "Cameras & Optics",
+    "hierachy": "141"
+  },
+  "142": {
+    "name": "Cameras",
+    "hierachy": "141.142"
+  },
+  "362": {
+    "name": "Surveillance Cameras",
+    "hierachy": "141.142.362"
+  },
+  "2096": {
+    "name": "Camera & Optic Accessories",
+    "hierachy": "141.2096"
+  },
+  "143": {
+    "name": "Camera Parts & Accessories",
+    "hierachy": "141.2096.143"
+  },
+  "5937": {
+    "name": "Surveillance Camera Accessories",
+    "hierachy": "141.2096.143.5937"
+  },
+  "222": {
+    "name": "Electronics",
+    "hierachy": "222"
+  },
+  "223": {
+    "name": "Audio",
+    "hierachy": "222.223"
+  },
+  "242": {
+    "name": "Audio Players & Recorders",
+    "hierachy": "222.223.242"
+  },
+  "226": {
+    "name": "CD Players & Recorders",
+    "hierachy": "222.223.242.226"
+  },
+  "251": {
+    "name": "Stereo Systems",
+    "hierachy": "222.223.242.251"
+  },
+  "386": {
+    "name": "Video",
+    "hierachy": "222.386"
+  },
+  "404": {
+    "name": "Televisions",
+    "hierachy": "222.386.404"
+  },
+  "387": {
+    "name": "Video Players & Recorders",
+    "hierachy": "222.386.387"
+  },
+  "5276": {
+    "name": "Media Streaming Devices",
+    "hierachy": "222.386.387.5276"
+  },
+  "388": {
+    "name": "DVD & Blu-ray Players",
+    "hierachy": "222.386.387.388"
+  },
+  "342": {
+    "name": "Networking",
+    "hierachy": "222.342"
+  },
+  "1350": {
+    "name": "Bridges & Routers",
+    "hierachy": "222.342.1350"
+  },
+  "5497": {
+    "name": "Wireless Routers",
+    "hierachy": "222.342.1350.5497"
+  },
+  "343": {
+    "name": "Modems",
+    "hierachy": "222.342.343"
+  },
+  "2455": {
+    "name": "Hubs & Switches",
+    "hierachy": "222.342.2455"
+  }
+}
