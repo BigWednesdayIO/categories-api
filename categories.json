@@ -1,230 +1,318 @@
 {
-  "412": {
-    "name": "Food, Beverages & Tobacco",
-    "hierachy": "412"
+  "135": {
+    "name": "Food Service",
+    "hierachy": "135"
   },
   "413": {
     "name": "Beverages",
-    "hierachy": "412.413"
+    "hierachy": "413"
   },
-  "499676": {
-    "name": "Alcoholic Beverages",
-    "hierachy": "412.413.499676"
-  },
-  "414": {
-    "name": "Beer",
-    "hierachy": "412.413.499676.414"
-  },
-  "417": {
-    "name": "Liquor & Spirits",
-    "hierachy": "412.413.499676.417"
-  },
-  "421": {
-    "name": "Wine",
-    "hierachy": "412.413.499676.421"
-  },
-  "1671": {
-    "name": "Gin",
-    "hierachy": "412.413.499676.417.1671"
-  },
-  "1926": {
-    "name": "Whisky",
-    "hierachy": "412.413.499676.417.1926"
-  },
-  "2107": {
-    "name": "Vodka",
-    "hierachy": "412.413.499676.417.2107"
-  },
-  "2364": {
-    "name": "Brandy",
-    "hierachy": "412.413.499676.417.2364"
-  },
-  "2605": {
-    "name": "Rum",
-    "hierachy": "412.413.499676.417.2605"
-  },
-  "2933": {
-    "name": "Liqueurs",
-    "hierachy": "412.413.499676.417.2933"
-  },
-  "420": {
-    "name": "Water",
-    "hierachy": "412.413.420"
-  },
-  "2628": {
-    "name": "Fizzy Drinks",
-    "hierachy": "412.413.2628"
-  },
-  "8036": {
-    "name": "Fruit-Flavoured Drinks",
-    "hierachy": "412.413.8036"
-  },
-  "2887": {
-    "name": "Juice",
-    "hierachy": "412.413.2887"
-  },
-  "5723": {
-    "name": "Sports & Energy Drinks",
-    "hierachy": "412.413.499676.5723"
-  },
-  "5725": {
-    "name": "Cocktail Mixes",
-    "hierachy": "412.413.499676.5725"
-  },
-  "5887": {
-    "name": "Flavoured Alcoholic Beverages",
-    "hierachy": "412.413.499676.5887"
-  },
-  "6761": {
-    "name": "Cider",
-    "hierachy": "412.413.499676.6761"
-  },
-  "536": {
-    "name": "Home & Garden",
-    "hierachy": "536"
+  "422": {
+    "name": "Food Items",
+    "hierachy": "422"
   },
   "630": {
     "name": "Household Supplies",
-    "hierachy": "536.630"
-  },
-  "623": {
-    "name": "Household Cleaning Supplies",
-    "hierachy": "536.630.623"
-  },
-  "4973": {
-    "name": "Household Cleaning Products",
-    "hierachy": "536.630.623.4973"
-  },
-  "7330": {
-    "name": "All-Purpose Cleaners",
-    "hierachy": "536.630.623.4973.7330"
-  },
-  "2530": {
-    "name": "Household Paper Products",
-    "hierachy": "536.630.2530"
-  },
-  "624": {
-    "name": "Facial Tissues",
-    "hierachy": "536.630.2530.624"
-  },
-  "629": {
-    "name": "Toilet Paper",
-    "hierachy": "536.630.2530.629"
+    "hierachy": "630"
   },
   "638": {
     "name": "Kitchen & Dining",
-    "hierachy": "536.638"
+    "hierachy": "638"
   },
-  "730": {
-    "name": "Kitchen Appliances",
-    "hierachy": "536.638.730"
+  "415": {
+    "name": "Hot Chocolate",
+    "hierachy": "413.415"
   },
-  "4161": {
-    "name": "Ice Makers",
-    "hierachy": "536.638.730.4161"
+  "418": {
+    "name": "Milk",
+    "hierachy": "413.418"
   },
-  "4539": {
-    "name": "Wine Fridges",
-    "hierachy": "536.638.730.4539"
+  "420": {
+    "name": "Water",
+    "hierachy": "413.420"
   },
-  "632": {
-    "name": "Hardware",
-    "hierachy": "632"
+  "1876": {
+    "name": "Bakery",
+    "hierachy": "422.1876"
   },
-  "502975": {
-    "name": "Fuel Containers & Tanks",
-    "hierachy": "632.502975"
+  "424": {
+    "name": "Bread & Buns",
+    "hierachy": "422.1876.424"
   },
-  "111": {
-    "name": "Business & Industrial",
-    "hierachy": "111"
+  "428": {
+    "name": "Dairy Products",
+    "hierachy": "422.428"
   },
-  "5863": {
-    "name": "Advertising & Marketing",
-    "hierachy": "111.5863"
+  "429": {
+    "name": "Cheese",
+    "hierachy": "422.428.429"
   },
-  "141": {
-    "name": "Cameras & Optics",
-    "hierachy": "141"
+  "427": {
+    "name": "Condiments & Sauces",
+    "hierachy": "422.427"
   },
-  "142": {
-    "name": "Cameras",
-    "hierachy": "141.142"
+  "432": {
+    "name": "Meat, Seafood & Eggs",
+    "hierachy": "422.432"
   },
-  "362": {
-    "name": "Surveillance Cameras",
-    "hierachy": "141.142.362"
+  "623": {
+    "name": "Household Cleaning Supplies",
+    "hierachy": "630.623"
   },
-  "2096": {
-    "name": "Camera & Optic Accessories",
-    "hierachy": "141.2096"
+  "2530": {
+    "name": "Household Paper Products",
+    "hierachy": "630.2530"
   },
-  "143": {
-    "name": "Camera Parts & Accessories",
-    "hierachy": "141.2096.143"
+  "629": {
+    "name": "Toilet Paper",
+    "hierachy": "630.2530.629"
   },
-  "5937": {
-    "name": "Surveillance Camera Accessories",
-    "hierachy": "141.2096.143.5937"
+  "672": {
+    "name": "Tableware",
+    "hierachy": "638.672"
   },
-  "222": {
-    "name": "Electronics",
-    "hierachy": "222"
+  "3110": {
+    "name": "Food Wraps",
+    "hierachy": "638.3110"
   },
-  "223": {
-    "name": "Audio",
-    "hierachy": "222.223"
+  "1496": {
+    "name": "Food Wrapping Foil",
+    "hierachy": "638.3110.1496"
   },
-  "242": {
-    "name": "Audio Players & Recorders",
-    "hierachy": "222.223.242"
+  "1573": {
+    "name": "Bagels",
+    "hierachy": "422.1876.1573"
   },
-  "226": {
-    "name": "CD Players & Recorders",
-    "hierachy": "222.223.242.226"
+  "1954": {
+    "name": "Yoghurt",
+    "hierachy": "422.428.1954"
   },
-  "251": {
-    "name": "Stereo Systems",
-    "hierachy": "222.223.242.251"
+  "1969": {
+    "name": "Salad Dressings",
+    "hierachy": "422.427.1969"
   },
-  "386": {
-    "name": "Video",
-    "hierachy": "222.386"
+  "2018": {
+    "name": "Ketchup",
+    "hierachy": "422.427.2018"
   },
-  "404": {
-    "name": "Televisions",
-    "hierachy": "222.386.404"
+  "2660": {
+    "name": "Cooking & Baking Ingredients",
+    "hierachy": "422.2660"
   },
-  "387": {
-    "name": "Video Players & Recorders",
-    "hierachy": "222.386.387"
+  "2713": {
+    "name": "Mops",
+    "hierachy": "630.623.2713"
   },
-  "5276": {
-    "name": "Media Streaming Devices",
-    "hierachy": "222.386.387.5276"
+  "2796": {
+    "name": "Sponges & Scouring Pads",
+    "hierachy": "630.623.2796"
   },
-  "388": {
-    "name": "DVD & Blu-ray Players",
-    "hierachy": "222.386.387.388"
+  "2742": {
+    "name": "Paper Towels",
+    "hierachy": "630.2530.2742"
   },
-  "342": {
-    "name": "Networking",
-    "hierachy": "222.342"
+  "3750": {
+    "name": "Cling Film",
+    "hierachy": "638.3110.3750"
   },
-  "1350": {
-    "name": "Bridges & Routers",
-    "hierachy": "222.342.1350"
+  "3846": {
+    "name": "Paper Napkins",
+    "hierachy": "630.2530.3846"
   },
-  "5497": {
-    "name": "Wireless Routers",
-    "hierachy": "222.342.1350.5497"
+  "3956": {
+    "name": "Waxed Paper",
+    "hierachy": "638.3110.3956"
   },
-  "343": {
-    "name": "Modems",
-    "hierachy": "222.342.343"
+  "5740": {
+    "name": "Dips & Spreads",
+    "hierachy": "422.5740"
   },
-  "2455": {
-    "name": "Hubs & Switches",
-    "hierachy": "222.342.2455"
+  "3965": {
+    "name": "Nut Butters",
+    "hierachy": "422.5740.3965"
+  },
+  "4627": {
+    "name": "Eggs",
+    "hierachy": "422.432.4627"
+  },
+  "4628": {
+    "name": "Meat",
+    "hierachy": "422.432.4628"
+  },
+  "4629": {
+    "name": "Seafood",
+    "hierachy": "422.432.4629"
+  },
+  "4632": {
+    "name": "Disposable Tableware",
+    "hierachy": "135.4632"
+  },
+  "4670": {
+    "name": "Scrubbing Brushes",
+    "hierachy": "630.623.4670"
+  },
+  "4947": {
+    "name": "Honey",
+    "hierachy": "422.427.4947"
+  },
+  "4975": {
+    "name": "Washing-up Detergent & Soap",
+    "hierachy": "630.623.4975"
+  },
+  "4976": {
+    "name": "Glass & Surface Cleaners",
+    "hierachy": "630.623.4676"
+  },
+  "4977": {
+    "name": "Floor Cleaners",
+    "hierachy": "630.623.4977"
+  },
+  "4978": {
+    "name": "Oven & Grill Cleaners",
+    "hierachy": "630.623.4978"
+  },
+  "4980": {
+    "name": "Toilet Bowl Cleaners",
+    "hierachy": "630.623.4980"
+  },
+  "5099": {
+    "name": "Disposable Cups",
+    "hierachy": "135.4632.5099"
+  },
+  "5113": {
+    "name": "Cleaning Gloves",
+    "hierachy": "630.623.5113"
+  },
+  "5642": {
+    "name": "Parchment Paper",
+    "hierachy": "638.3110.5642"
+  },
+  "5724": {
+    "name": "Non-Dairy Milk",
+    "hierachy": "413.5724"
+  },
+  "5749": {
+    "name": "Pies & Tarts",
+    "hierachy": "422.1876.5749"
+  },
+  "5750": {
+    "name": "Pastries & Scones",
+    "hierachy": "422.1876.5750"
+  },
+  "5759": {
+    "name": "Pasta Sauces",
+    "hierachy": "422.427.5759"
+  },
+  "5785": {
+    "name": "Cream Cheese",
+    "hierachy": "422.5740.5785"
+  },
+  "5793": {
+    "name": "Fresh & Frozen Vegetables",
+    "hierachy": "422.5793"
+  },
+  "5795": {
+    "name": "Fresh & Frozen Fruit",
+    "hierachy": "422.5795"
+  },
+  "5827": {
+    "name": "Butter & Margarine",
+    "hierachy": "422.428.5827"
+  },
+  "6049": {
+    "name": "Coffee & Tea Cups",
+    "hierachy": "638.672.6049"
+  },
+  "6051": {
+    "name": "Coffee & Tea Saucers",
+    "hierachy": "638.672.6051"
+  },
+  "6264": {
+    "name": "Mop Heads & Refills",
+    "hierachy": "630.623.6264"
+  },
+  "6474": {
+    "name": "Household Disinfectants",
+    "hierachy": "630.623.6474"
+  },
+  "6569": {
+    "name": "Rocket",
+    "hierachy": "422.5793.6569"
+  },
+  "6572": {
+    "name": "Avocados",
+    "hierachy": "422.5793.6572"
+  },
+  "6582": {
+    "name": "Berries",
+    "hierachy": "422.5795.6582"
+  },
+  "6619": {
+    "name": "Ginger Root",
+    "hierachy": "422.5793.6619"
+  },
+  "6636": {
+    "name": "Lemons",
+    "hierachy": "422.5795.6636"
+  },
+  "6642": {
+    "name": "Limes",
+    "hierachy": "422.430.6642"
+  },
+  "6658": {
+    "name": "Oranges",
+    "hierachy": "422.5795.6658"
+  },
+  "6637": {
+    "name": "Lettuce",
+    "hierachy": "422.5793.6637"
+  },
+  "6673": {
+    "name": "Pomegranates",
+    "hierachy": "422.5795.6673"
+  },
+  "6695": {
+    "name": "Spinach",
+    "hierachy": "422.5793.6695"
+  },
+  "6703": {
+    "name": "Tomatoes",
+    "hierachy": "422.5793.6703"
+  },
+  "7330": {
+    "name": "All-Purpose Cleaners",
+    "hierachy": "630.623.7330"
+  },
+  "7426": {
+    "name": "Stainless Steel Cleaners & Polishes",
+    "hierachy": "630.623.7426"
+  },
+  "7462": {
+    "name": "Washing Machine Cleaners",
+    "hierachy": "630.623.7462"
+  },
+  "7510": {
+    "name": "Dishwasher Cleaners",
+    "hierachy": "630.623.7510"
+  },
+  "7552": {
+    "name": "Rinse Aids",
+    "hierachy": "630.623.7552"
+  },
+  "8059": {
+    "name": "Disposable Lids",
+    "hierachy": "135.8059"
+  },
+  "499767": {
+    "name": "Scrub Brush Heads & Refills",
+    "hierachy": "630.623.499767"
+  },
+  "500065": {
+    "name": "Descalers & Decalcifiers",
+    "hierachy": "630.623.500065"
+  },
+  "503734": {
+    "name": "Sugar & Sweeteners",
+    "hierachy": "422.2660.503734"
   }
 }
