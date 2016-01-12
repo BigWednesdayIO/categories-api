@@ -5,11 +5,11 @@
   },
   "413": {
     "name": "Beverages",
-    "hierachy": "413"
+    "hierachy": "412.413"
   },
-  "422": {
-    "name": "Food Items",
-    "hierachy": "422"
+  "412": {
+    "name": "Food & Beverages",
+    "hierachy": "412"
   },
   "630": {
     "name": "Household Supplies",
@@ -21,39 +21,43 @@
   },
   "415": {
     "name": "Hot Chocolate",
-    "hierachy": "413.415"
+    "hierachy": "412.413.415"
   },
   "418": {
     "name": "Milk",
-    "hierachy": "413.418"
+    "hierachy": "412.413.418"
   },
   "420": {
     "name": "Water",
-    "hierachy": "413.420"
+    "hierachy": "412.413.420"
+  },
+  "1868": {
+    "name": "Coffee",
+    "hierachy": "412.413.1868"
   },
   "1876": {
     "name": "Bakery",
-    "hierachy": "422.1876"
+    "hierachy": "412.1876"
   },
   "424": {
     "name": "Bread & Buns",
-    "hierachy": "422.1876.424"
+    "hierachy": "412.1876.424"
   },
   "428": {
     "name": "Dairy Products",
-    "hierachy": "422.428"
+    "hierachy": "412.428"
   },
   "429": {
     "name": "Cheese",
-    "hierachy": "422.428.429"
+    "hierachy": "412.428.429"
   },
   "427": {
     "name": "Condiments & Sauces",
-    "hierachy": "422.427"
+    "hierachy": "412.427"
   },
   "432": {
     "name": "Meat, Seafood & Eggs",
-    "hierachy": "422.432"
+    "hierachy": "412.432"
   },
   "623": {
     "name": "Household Cleaning Supplies",
@@ -81,23 +85,23 @@
   },
   "1573": {
     "name": "Bagels",
-    "hierachy": "422.1876.1573"
+    "hierachy": "412.1876.1573"
   },
   "1954": {
     "name": "Yoghurt",
-    "hierachy": "422.428.1954"
+    "hierachy": "412.428.1954"
   },
   "1969": {
     "name": "Salad Dressings",
-    "hierachy": "422.427.1969"
+    "hierachy": "412.427.1969"
   },
   "2018": {
     "name": "Ketchup",
-    "hierachy": "422.427.2018"
+    "hierachy": "412.427.2018"
   },
   "2660": {
     "name": "Cooking & Baking Ingredients",
-    "hierachy": "422.2660"
+    "hierachy": "412.2660"
   },
   "2713": {
     "name": "Mops",
@@ -125,23 +129,23 @@
   },
   "5740": {
     "name": "Dips & Spreads",
-    "hierachy": "422.5740"
+    "hierachy": "412.5740"
   },
   "3965": {
     "name": "Nut Butters",
-    "hierachy": "422.5740.3965"
+    "hierachy": "412.5740.3965"
   },
   "4627": {
     "name": "Eggs",
-    "hierachy": "422.432.4627"
+    "hierachy": "412.432.4627"
   },
   "4628": {
     "name": "Meat",
-    "hierachy": "422.432.4628"
+    "hierachy": "412.432.4628"
   },
   "4629": {
     "name": "Seafood",
-    "hierachy": "422.432.4629"
+    "hierachy": "412.432.4629"
   },
   "4632": {
     "name": "Disposable Tableware",
@@ -153,7 +157,7 @@
   },
   "4947": {
     "name": "Honey",
-    "hierachy": "422.427.4947"
+    "hierachy": "412.427.4947"
   },
   "4975": {
     "name": "Washing-up Detergent & Soap",
@@ -193,31 +197,31 @@
   },
   "5749": {
     "name": "Pies & Tarts",
-    "hierachy": "422.1876.5749"
+    "hierachy": "412.1876.5749"
   },
   "5750": {
     "name": "Pastries & Scones",
-    "hierachy": "422.1876.5750"
+    "hierachy": "412.1876.5750"
   },
   "5759": {
     "name": "Pasta Sauces",
-    "hierachy": "422.427.5759"
+    "hierachy": "412.427.5759"
   },
   "5785": {
     "name": "Cream Cheese",
-    "hierachy": "422.5740.5785"
+    "hierachy": "412.5740.5785"
   },
   "5793": {
     "name": "Fresh & Frozen Vegetables",
-    "hierachy": "422.5793"
+    "hierachy": "412.5793"
   },
   "5795": {
     "name": "Fresh & Frozen Fruit",
-    "hierachy": "422.5795"
+    "hierachy": "412.5795"
   },
   "5827": {
     "name": "Butter & Margarine",
-    "hierachy": "422.428.5827"
+    "hierachy": "412.428.5827"
   },
   "6049": {
     "name": "Coffee & Tea Cups",
@@ -237,47 +241,47 @@
   },
   "6569": {
     "name": "Rocket",
-    "hierachy": "422.5793.6569"
+    "hierachy": "412.5793.6569"
   },
   "6572": {
     "name": "Avocados",
-    "hierachy": "422.5793.6572"
+    "hierachy": "412.5793.6572"
   },
   "6582": {
     "name": "Berries",
-    "hierachy": "422.5795.6582"
+    "hierachy": "412.5795.6582"
   },
   "6619": {
     "name": "Ginger Root",
-    "hierachy": "422.5793.6619"
+    "hierachy": "412.5793.6619"
   },
   "6636": {
     "name": "Lemons",
-    "hierachy": "422.5795.6636"
+    "hierachy": "412.5795.6636"
   },
   "6642": {
     "name": "Limes",
-    "hierachy": "422.430.6642"
+    "hierachy": "412.5795.6642"
   },
   "6658": {
     "name": "Oranges",
-    "hierachy": "422.5795.6658"
+    "hierachy": "412.5795.6658"
   },
   "6637": {
     "name": "Lettuce",
-    "hierachy": "422.5793.6637"
+    "hierachy": "412.5793.6637"
   },
   "6673": {
     "name": "Pomegranates",
-    "hierachy": "422.5795.6673"
+    "hierachy": "412.5795.6673"
   },
   "6695": {
     "name": "Spinach",
-    "hierachy": "422.5793.6695"
+    "hierachy": "412.5793.6695"
   },
   "6703": {
     "name": "Tomatoes",
-    "hierachy": "422.5793.6703"
+    "hierachy": "412.5793.6703"
   },
   "7330": {
     "name": "All-Purpose Cleaners",
@@ -313,6 +317,6 @@
   },
   "503734": {
     "name": "Sugar & Sweeteners",
-    "hierachy": "422.2660.503734"
+    "hierachy": "412.2660.503734"
   }
 }
